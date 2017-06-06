@@ -1,6 +1,5 @@
 Additional Resources can be found here:
 
-Set up an account and work online
-https://www.youtube.com/watch?v=6lGItUBUK5s
-Github Client
-https://www.youtube.com/watch?v=YpON-C9V884
+- Github Guides: https://guides.github.com/activities/hello-world/
+- Intro video to getting started with github: https://www.youtube.com/watch?v=6lGItUBUK5s
+- Intro to using a github client on your camputer: https://www.youtube.com/watch?v=YpON-C9V884
