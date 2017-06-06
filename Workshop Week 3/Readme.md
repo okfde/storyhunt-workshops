@@ -1,7 +1,7 @@
 # Scraping and Cleaning Data
 In this workshop we gave a short introduction into Scraping and cleaning data with the Crome Webscraper Plugin and Open Refine, the open source data cleaning tool.
 
-##Agenda
+## Agenda
 * Introduction to Scraping
 * Web Scraping
 	* Chrome Scraper Plugin
